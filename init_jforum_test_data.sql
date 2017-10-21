@@ -1,5 +1,3 @@
-
-
 #1后台删除所有分类，然后去jforum_categories表将ID字段的自增设置为1
 #2手工添加5个版面的分类，因为不手工添加，直接在数据库加会在首页展示不出来，分类名称如下：
 categories_id	title	display_order	moderated
