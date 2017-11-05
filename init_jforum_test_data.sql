@@ -42,7 +42,7 @@ INSERT INTO jforum_users VALUES ( i, '1', userName,'e10adc3949ba59abbe56e057f20f
 null, '2015-05-06 09:33:18', null, '0', '', null, '', '%d/%M/%Y %H:%i', '0', '0', null, null, '0', '1',
 '0', '1', '1', '1', '1', '1', '1', '0', '0', '1', '1', '0', null, '0',userMail, null, null, null,
 null, null, null, null, null, null, null, null, null, null, null, null, '1', null, null, null) ;
-INSERT INTO jforum_user_groups VALUES (3,i) ;
+INSERT INTO jforum_user_groups VALUES (2,i) ;
 SET i = i+1;
 END WHILE;
 END
